@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137472a8bc2ebd446a12f0fd043bc152, type: 3}
+  m_Name: GameManager
+  m_EditorClassIdentifier: Assembly-CSharp::GameManager
+  State: 0
+  MenuScene: {fileID: 102900000, guid: ebb66dcb3e6c27340a4e7005858d4d83, type: 3}
+  ShipScene: {fileID: 102900000, guid: df78498ded8ea874bb7ea72cdf994cc1, type: 3}
+  CasinoScene: {fileID: 102900000, guid: 4459ca3622419e84c948a4fa6207875c, type: 3}
